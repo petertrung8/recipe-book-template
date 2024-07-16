@@ -2,8 +2,8 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Almonds
+- Cashews
 
 
 ## Instructions
